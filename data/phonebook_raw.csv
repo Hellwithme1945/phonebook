@@ -1,0 +1,6 @@
+lastname,firstname,surname,organization,position,phone,email
+Иванов,Иван,Иванович,ООО Ромашка,Менеджер,+7 999 123-45-67,ivanov@example.com
+Иванов,Иван,,,"Главный инженер","8 (999) 123-45-67",ivanov@example.com
+Петров Петр Петрович,АО Гвоздь,Директор,+7(999)123-45-67,petrov@example.com
+Сидоров Сидор Сидорович,ЗАО Лес,Бухгалтер,8 999 9876543,sidorov@example.com
+Сидоров Сидор,,ЗАО Лес,Главбух,8-999-9876543,sidorov@example.com
